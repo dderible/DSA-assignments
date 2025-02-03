@@ -4,6 +4,6 @@
 //2. delete at the ending
 //3. delete anywhere
 
-public class Assignment3 {
+public class SingleLinkedList {
 
 }
